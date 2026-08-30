@@ -1,15 +1,19 @@
 <!--
 ============================================================
-  PROFILE README (terminal / gruvbox theme)
-  → place at: github.com/snipperankit/snipperankit  (repo name = username)
-  → repo must be Public, file must be named README.md
-  Palette (gruvbox): bg #1D2021 · fg #EBDBB2 · green #B8BB26
-                     orange #FE8019 · yellow #FABD2F · aqua #8EC07C
-  Swap the TODO links and REPO urls.
+  PROFILE README (black + green terminal theme)
+  → repo: github.com/snipperankit/snipperankit  (name = username, Public)
+  → this file  → README.md   at repo root
+  → hero.svg   → assets/hero.svg   (MUST upload it too, or the hero won't show)
+  Palette: bg #0A0A0A · green #7EE787 · text #E6EDF3 · gray #8B949E
+  Only reliable image hosts used (demolab.com, komarev.com, shields.io).
+  Broken-before images (github-readme-stats / activity-graph) removed —
+  their shared Vercel instance rate-limits. See stats note below.
 ============================================================
 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=B8BB26&vCenter=true&width=680&lines=~%24+whoami;Software+Engineer+%C2%B7+Solution+Architect;~%24+cat+focus.txt;Production+AI+agents+%C2%B7+MCP+tooling+%C2%B7+event-driven+systems" alt="~$ whoami" />
+![Ankit Anand — Solution Architect](./assets/hero.svg)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=7EE787&width=680&lines=Production+AI+agents+%C2%B7+MCP+tooling;Event-driven+Spring+Boot+microservices;LangGraph+%C2%B7+CrewAI+%C2%B7+Azure+OpenAI" alt="focus" />
 
 ### `~$ neofetch`
 
@@ -27,13 +31,10 @@
 ```
 
 <!-- contact -->
-<a href="https://github.com/snipperankit"><img src="https://img.shields.io/badge/github-1D2021?style=flat-square&logo=github&logoColor=B8BB26" alt="github"/></a>
-<!-- TODO: your LinkedIn URL -->
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/linkedin-1D2021?style=flat-square&logo=linkedin&logoColor=8EC07C" alt="linkedin"/></a>
-<!-- TODO: your email -->
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-1D2021?style=flat-square&logo=gmail&logoColor=FB4934" alt="email"/></a>
-<!-- TODO: your portfolio, or delete -->
-<a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/portfolio-1D2021?style=flat-square&logo=vercel&logoColor=FABD2F" alt="portfolio"/></a>
+<a href="https://github.com/snipperankit"><img src="https://img.shields.io/badge/github-0A0A0A?style=flat-square&logo=github&logoColor=7EE787" alt="github"/></a>
+<a href="https://www.linkedin.com/in/ankit-anand-1a19978b/"><img src="https://img.shields.io/badge/linkedin-0A0A0A?style=flat-square&logo=linkedin&logoColor=7EE787" alt="linkedin"/></a>
+<a href="https://medium.com/@anand.ankit093"><img src="https://img.shields.io/badge/medium-0A0A0A?style=flat-square&logo=medium&logoColor=7EE787" alt="medium"/></a>
+<!-- add email if you want: <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-0A0A0A?style=flat-square&logo=gmail&logoColor=7EE787" alt="email"/></a> -->
 
 ---
 
@@ -53,19 +54,20 @@ $ git log --author="ankit" --stat --since="8 years ago" | tail
 
 ### `~$ ls stack/`
 
-![Java](https://img.shields.io/badge/Java-282828?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=FABD2F)
-![TypeScript](https://img.shields.io/badge/TypeScript-282828?style=flat-square&logo=typescript&logoColor=3178C6)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-282828?style=flat-square&logo=springboot&logoColor=B8BB26)
-![FastAPI](https://img.shields.io/badge/FastAPI-282828?style=flat-square&logo=fastapi&logoColor=8EC07C)
-![React](https://img.shields.io/badge/React-282828?style=flat-square&logo=react&logoColor=61DAFB)
-![LangGraph](https://img.shields.io/badge/LangGraph-282828?style=flat-square&logo=langchain&logoColor=EBDBB2)
-![CrewAI](https://img.shields.io/badge/CrewAI-282828?style=flat-square&logo=airbnb&logoColor=FE8019)
-![MCP](https://img.shields.io/badge/MCP-282828?style=flat-square&logo=anthropic&logoColor=B8BB26)
-![Azure](https://img.shields.io/badge/Azure-282828?style=flat-square&logo=microsoftazure&logoColor=FABD2F)
-![Kafka](https://img.shields.io/badge/Kafka-282828?style=flat-square&logo=apachekafka&logoColor=EBDBB2)
-![Neo4j](https://img.shields.io/badge/Neo4j-282828?style=flat-square&logo=neo4j&logoColor=8EC07C)
-![Docker](https://img.shields.io/badge/Docker-282828?style=flat-square&logo=docker&logoColor=2496ED)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=7EE787)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=7EE787)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=7EE787)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?style=flat-square&logo=springboot&logoColor=7EE787)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=7EE787)
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=7EE787)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logo=langchain&logoColor=7EE787)
+![CrewAI](https://img.shields.io/badge/CrewAI-0A0A0A?style=flat-square&logo=airbnb&logoColor=7EE787)
+![MCP](https://img.shields.io/badge/MCP-0A0A0A?style=flat-square&logo=anthropic&logoColor=7EE787)
+![Azure](https://img.shields.io/badge/Azure-0A0A0A?style=flat-square&logo=microsoftazure&logoColor=7EE787)
+![Kafka](https://img.shields.io/badge/Kafka-0A0A0A?style=flat-square&logo=apachekafka&logoColor=7EE787)
+![Neo4j](https://img.shields.io/badge/Neo4j-0A0A0A?style=flat-square&logo=neo4j&logoColor=7EE787)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=7EE787)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=7EE787)
 
 ---
 
@@ -89,12 +91,22 @@ $ git log --author="ankit" --stat --since="8 years ago" | tail
 
 ### `~$ cat ~/.stats`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=snipperankit&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipperankit&layout=compact&hide_border=true&theme=gruvbox" alt="top languages"/>
+![profile views](https://komarev.com/ghpvc/?username=snipperankit&style=flat-square&color=7EE787&label=profile%20views)
+![followers](https://img.shields.io/github/followers/snipperankit?style=flat-square&labelColor=0A0A0A&color=7EE787&logo=github&logoColor=7EE787)
 
-<img src="https://streak-stats.demolab.com/?user=snipperankit&hide_border=true&theme=gruvbox" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=snipperankit&hide_border=true&background=0A0A0A&border=1F2A1F&stroke=1F2A1F&ring=7EE787&fire=7EE787&currStreakLabel=7EE787&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&dayLabels=E6EDF3" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snipperankit&hide_border=true&bg_color=1D2021&color=EBDBB2&line=B8BB26&point=FE8019&area=true&area_color=B8BB26" alt="activity graph"/>
+<!--
+  OPTIONAL — the classic stats + top-langs cards.
+  These use the shared github-readme-stats.vercel.app instance, which
+  rate-limits and often shows as a broken image (that's what you saw).
+  To use them reliably: deploy your OWN instance (free, ~5 min) —
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  then swap the host below to your-instance.vercel.app.
+
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=snipperankit&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=7EE787&icon_color=7EE787&text_color=E6EDF3" alt="stats"/>
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=snipperankit&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=7EE787&text_color=E6EDF3" alt="top langs"/>
+-->
 
 ---
 
