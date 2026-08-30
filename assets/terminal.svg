@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 988" width="840" height="988" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+  <rect x="1" y="1" width="838" height="986" rx="14" fill="#0A0A0A" stroke="#1F2A1F" stroke-width="1.5"/>
+  <circle cx="28" cy="30" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="30" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="30" r="6" fill="#27C93F"/>
+  <text x="28" y="82" font-size="15" xml:space="preserve"><tspan fill="#7EE787" font-weight="700">~$ </tspan><tspan fill="#E6EDF3" font-weight="700">neofetch</tspan></text>
+  <text x="28" y="126" font-size="14" xml:space="preserve"><tspan fill="#7EE787">.--.</tspan></text>
+  <text x="210" y="126" font-size="14" xml:space="preserve"><tspan fill="#7EE787" font-weight="700">ankit@github</tspan></text>
+  <text x="28" y="148" font-size="14" xml:space="preserve"><tspan fill="#7EE787">|o_o |</tspan></text>
+  <text x="210" y="148" font-size="14" xml:space="preserve"><tspan fill="#8B949E">------------------------------------------</tspan></text>
+  <text x="28" y="170" font-size="14" xml:space="preserve"><tspan fill="#7EE787">|:_/ |</tspan></text>
+  <text x="210" y="170" font-size="14" xml:space="preserve"><tspan fill="#7EE787">OS......: </tspan><tspan fill="#C9D1D9">Debian-brained, prod-hardened</tspan></text>
+  <text x="28" y="192" font-size="14" xml:space="preserve"><tspan fill="#7EE787">//   \ \</tspan></text>
+  <text x="210" y="192" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Host....: </tspan><tspan fill="#C9D1D9">QVC Group · QI Merchandise</tspan></text>
+  <text x="28" y="214" font-size="14" xml:space="preserve"><tspan fill="#7EE787">(|     | )</tspan></text>
+  <text x="210" y="214" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Role....: </tspan><tspan fill="#C9D1D9">Software Engineer · Solution Architect</tspan></text>
+  <text x="28" y="236" font-size="14" xml:space="preserve"><tspan fill="#7EE787">/'\_   _/`\</tspan></text>
+  <text x="210" y="236" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Uptime..: </tspan><tspan fill="#C9D1D9">8+ yrs · retail · fintech · supply chain · telecom</tspan></text>
+  <text x="28" y="258" font-size="14" xml:space="preserve"><tspan fill="#7EE787">\___)=(___/</tspan></text>
+  <text x="210" y="258" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Shell...: </tspan><tspan fill="#C9D1D9">Java · Python · TypeScript</tspan></text>
+  <text x="210" y="280" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Stack...: </tspan><tspan fill="#C9D1D9">Spring Boot · FastAPI · LangGraph · CrewAI</tspan></text>
+  <text x="210" y="302" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Cloud...: </tspan><tspan fill="#C9D1D9">Azure · Kafka · Neo4j · Docker</tspan></text>
+  <text x="210" y="324" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Certs...: </tspan><tspan fill="#C9D1D9">Anthropic · Hugging Face</tspan></text>
+  <text x="28" y="368" font-size="15" xml:space="preserve"><tspan fill="#7EE787" font-weight="700">~$ </tspan><tspan fill="#E6EDF3" font-weight="700">cat about.md</tspan></text>
+  <text x="28" y="412" font-size="14" xml:space="preserve"><tspan fill="#C9D1D9">Software Engineer &amp; Solution Architect at QVC Group (Qurate Retail</tspan></text>
+  <text x="28" y="434" font-size="14" xml:space="preserve"><tspan fill="#C9D1D9">Group). I design event-driven Java/Spring Boot microservices (Kafka,</tspan></text>
+  <text x="28" y="456" font-size="14" xml:space="preserve"><tspan fill="#C9D1D9">IBM MQ) on Azure, and build production GenAI systems — multi-agent</tspan></text>
+  <text x="28" y="478" font-size="14" xml:space="preserve"><tspan fill="#C9D1D9">orchestration, MCP servers, and RAG over graph data.</tspan></text>
+  <text x="28" y="522" font-size="14" xml:space="preserve"><tspan fill="#7EE787" font-weight="700">$ </tspan><tspan fill="#C9D1D9">git log --author="ankit" --since="8 years ago"</tspan></text>
+  <text x="28" y="544" font-size="14" xml:space="preserve"><tspan fill="#7EE787"> focus:  </tspan><tspan fill="#C9D1D9">approval-gated autonomous ops, agent harnesses, MCP tooling</tspan></text>
+  <text x="28" y="566" font-size="14" xml:space="preserve"><tspan fill="#7EE787"> past:   </tspan><tspan fill="#C9D1D9">360T (Deutsche Börse) · Manhattan Associates · Nokia R&amp;D</tspan></text>
+  <text x="28" y="588" font-size="14" xml:space="preserve"><tspan fill="#7EE787"> edu:    </tspan><tspan fill="#C9D1D9">M.Sc. Global Software Development</tspan></text>
+  <text x="28" y="610" font-size="14" xml:space="preserve"><tspan fill="#7EE787"> loc:    </tspan><tspan fill="#C9D1D9">India -&gt; Germany</tspan></text>
+  <text x="28" y="654" font-size="15" xml:space="preserve"><tspan fill="#7EE787" font-weight="700">~$ </tspan><tspan fill="#E6EDF3" font-weight="700">ls stack/</tspan></text>
+  <text x="28" y="698" font-size="14" xml:space="preserve"><tspan fill="#7EE787">Java  Python  TypeScript  Spring Boot  FastAPI  React  LangGraph</tspan></text>
+  <text x="28" y="720" font-size="14" xml:space="preserve"><tspan fill="#7EE787">CrewAI  MCP  Azure  Kafka  Neo4j  Docker  Linux</tspan></text>
+  <text x="28" y="764" font-size="15" xml:space="preserve"><tspan fill="#7EE787" font-weight="700">~$ </tspan><tspan fill="#E6EDF3" font-weight="700">git log --oneline projects/</tspan></text>
+  <text x="28" y="808" font-size="14" xml:space="preserve"><tspan fill="#56D364">* 7f3a1c2  </tspan><tspan fill="#C9D1D9">SentinelOps — approval-gated incident-response agent</tspan></text>
+  <text x="28" y="830" font-size="14" xml:space="preserve"><tspan fill="#56D364">* a91be04  </tspan><tspan fill="#C9D1D9">mcp-zero-trust-gateway — policy proxy for MCP + HTTP</tspan></text>
+  <text x="28" y="852" font-size="14" xml:space="preserve"><tspan fill="#56D364">* c02d7ef  </tspan><tspan fill="#C9D1D9">ProductQPC — RAG chatbot over graph + vector product data</tspan></text>
+  <text x="28" y="874" font-size="14" xml:space="preserve"><tspan fill="#56D364">* 5de8b3a  </tspan><tspan fill="#C9D1D9">Springward — autonomous Spring Boot upgrade agent (CrewAI)</tspan></text>
+  <text x="28" y="918" font-size="14" xml:space="preserve"><tspan fill="#7EE787" font-weight="700">~$ </tspan><tspan fill="#E6EDF3">exit</tspan></text>
+  <text x="28" y="940" font-size="14" xml:space="preserve"><tspan fill="#8B949E">logout</tspan></text>
+</svg>
