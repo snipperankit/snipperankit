@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 260" width="820" height="260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect x="1" y="1" width="818" height="258" rx="14" fill="#0A0A0A" stroke="#1F2A1F" stroke-width="1.5"/>
+  <!-- window dots -->
+  <circle cx="28" cy="30" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="30" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="30" r="6" fill="#27C93F"/>
+  <!-- prompt -->
+  <text x="32" y="80" font-size="15">
+    <tspan fill="#7EE787" font-weight="600">visitor@ankit</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#E6EDF3">whoami</tspan>
+  </text>
+  <!-- name -->
+  <text x="32" y="132" font-size="42" font-weight="700" fill="#E6EDF3">Ankit Anand</text>
+  <!-- role -->
+  <text x="34" y="162" font-size="14" letter-spacing="2" fill="#8B949E">SOLUTION ARCHITECT · ULM, GERMANY</text>
+  <!-- tagline -->
+  <text x="32" y="202" font-size="16" fill="#7EE787">8+ years · millions of events a day · zero drama</text>
+  <!-- prompt + blinking cursor -->
+  <text x="32" y="238" font-size="16" fill="#8B949E">~$ </text>
+  <rect x="62" y="224" width="11" height="18" fill="#7EE787">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
